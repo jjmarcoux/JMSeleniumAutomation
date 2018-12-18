@@ -1,0 +1,16 @@
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\JMSeleniumAutomation.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\JMSeleniumAutomation.pdb
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\WebDriver.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\bin\Debug\WebDriver.xml
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\obj\Debug\JMSeleniumAutomation.csprojAssemblyReference.cache
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\obj\Debug\JMSeleniumAutomation.csproj.CoreCompileInputs.cache
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\obj\Debug\JMSeleniumAutomation.csproj.CopyComplete
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\obj\Debug\JMSeleniumAutomation.dll
+C:\GitHub\Cognosante\JMSeleniumAutomation\JMSeleniumAutomation\obj\Debug\JMSeleniumAutomation.pdb
